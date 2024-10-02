@@ -8,7 +8,7 @@ A simple Dice Roller game built using HTML, CSS, and JavaScript. Roll the dice a
 * Responsive Design: Play the game on any device — whether on desktop, tablet, or mobile, the layout adapts accordingly.
 
 # Demo
-You can try the live version of the Dice Roller here (insert your link).
+You can try the live version of the Dice Roller here (https://glozog.github.io/Dice-Roller-Game/).
 
 # How the Game Works
 * Click the Roll Dice button.
